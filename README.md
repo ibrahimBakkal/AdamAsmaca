@@ -5,7 +5,7 @@ Python ve Tkinter kullanılarak geliştirilen basit bir grafik arayüzlü Adam A
 
 ## 🎮 Oyun Özellikleri
 
-- Rastgele kelime seçimi (`kelimeler.txt` dosyasından)
+- Rastgele kelime seçimi (`words.txt` dosyasından)
 - Harf veya kelime tahmini
 - Kalan tahmin hakkı gösterimi
 - İpucu alma (1 kez kullanılabilir)
@@ -39,7 +39,7 @@ python main.py
 ## 📁 Gerekli Dosyalar
 
 - `main.py`: Oyun kodları
-- `kelimeler.txt`: Her satıra bir kelime gelecek şekilde hazırlanmış metin dosyası
+- `words.txt`: Her satıra bir kelime gelecek şekilde hazırlanmış metin dosyası
 
 ### Örnek kelimeler.txt içeriği:
 
