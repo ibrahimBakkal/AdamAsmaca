@@ -59,7 +59,7 @@ oyun
 
 ## 👤 Geliştirici
 
-- **Adın Soyadın**
+- **İbrahim Bakkal**
 - [GitHub Profilin](https://github.com/ibrahimBakkal)
 
 ## 📄 Lisans
