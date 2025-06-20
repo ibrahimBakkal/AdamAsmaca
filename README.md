@@ -41,7 +41,7 @@ python main.py
 - `main.py`: Oyun kodları
 - `words.txt`: Her satıra bir kelime gelecek şekilde hazırlanmış metin dosyası
 
-### Örnek kelimeler.txt içeriği:
+### Örnek words.txt içeriği:
 
 ```
 elma
